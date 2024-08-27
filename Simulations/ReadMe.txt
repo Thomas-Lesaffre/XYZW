@@ -16,7 +16,7 @@ Program written by Thomas Lesaffre, v. 26/02/2024
 	- ranbin.cpp: file containing the C++ recipes for sampling from various distributions (used only for the Gaussian here).
 	- mt.h: MersenneTwister random number generator.
 
-	All relevant files are extensively annotated and commented. If the reader has any question, they are welcome to e-mail T. Lesaffre at "thomas.lesaffre@unil.ch" or "thomaslesaffre.evolbiol@gmail.com"
+	All relevant files are extensively annotated and commented. If the reader has any question, they are welcome to e-mail T. Lesaffre at "thomas.lesaffre[at]unil.ch" or "thomaslesaffre.evolbiol[at]gmail.com"
 
 (2) How to compile the simulation program
 
