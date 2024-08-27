@@ -1,7 +1,9 @@
 Supplementary code files to the article _An explanation for the prevalence of XY over ZW sex determination in species derived from hermaphroditism_ accepted PNAS.
 
 Authors: Thomas Lesaffre, John R. Pannell and Charles Mullon
+
 Affiliation: Department of Ecology and Evolution, University of Lausanne (Switzerland)
+
 Contact: thomas.lesaffre[at]unil.ch / thomaslesaffre.evolbiol[at]gmail.com
 
 This repository contains the code files mentioned in the Supporting Appendix of the paper, namely:
