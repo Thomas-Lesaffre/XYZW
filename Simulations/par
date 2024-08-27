@@ -1,0 +1,21 @@
+n= Population site.
+tfinal= max time for which the simulation is run.
+trig= time at which dominance is allowed to evolve.
+eco= time at which gain curve parameters switch from zero to one (see below).
+a0= initial promoter affinity and locus contribution (equal for all).
+f0= max female fecundity
+gamma_f0= female gain curve exponent BEFORE ecological switch
+gamma_f1= female gain curve exponent AFTER ecological switch
+m0= max male fecundity
+gamma_m0= male gain curve exponent BEFORE ecological switch
+gamma_m1= male gain curve exponent AFTER ecological switch
+nloc= number of loci
+u= mutation rate for allelic effects and loci contributions
+uprom= mutation rate for promoters (dominance)
+sig= standard deviation of the normal distribution for mutation effects
+tmes= number of generations between two measurements
+nmes= number of individuals measured
+n_it= number of interations
+
+n tfinal trig eco a0 f0 gamma_f0 gamma_f1 m0 gamma_m0 gamma_m1 nloc u uprom sig tmes nmes n_it
+*5000 1000000 0 0 1 1 2 2 1 2 2 1 0.005 0.005 0.01 100 100 1
